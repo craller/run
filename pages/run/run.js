@@ -1,6 +1,3 @@
-
-
-
 var countTooGetLocation = 0;
 var total_micro_second = 0;
 var starRun = 0;
